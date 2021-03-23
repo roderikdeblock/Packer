@@ -17,7 +17,6 @@
 			"./scripts/enable-winrm.ps1",
 			"./scripts/install-vm-tools.cmd",
 			"./scripts/set-temp.ps1",
-			"./scripts/microsoft-updates.ps1",
 			"./scripts/choco.ps1",
 			"./scripts/disable-screensaver.ps1"
 		],
